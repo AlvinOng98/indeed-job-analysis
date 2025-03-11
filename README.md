@@ -28,7 +28,5 @@ A data analysis project that explores job postings, salaries, and hiring trends 
 ## ⚙️ Tech Stack
 - **Data Cleaning**: 📝 Excel - View [CSV]()
 - **Data Analysis**: 🐍 Python on Jupyter notebook (Pandas, Seaborn, Matplotlib) - View [Notebook]()
-- **Visualization**: 📊 Tableau Desktop Public - View [dashboard]()
 - **Web Scraping**: 🌐 Selenium - View [scripts]()
 
-## 📊 Dashboard
