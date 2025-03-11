@@ -1,7 +1,7 @@
 # 📊 Job Market Analysis 
 
 ## 🚀 Overview
-A data analysis project that explores job postings, salaries, and hiring trends using web-scraped data.
+A data analysis project that explores job postings, and hiring trends using web-scraped data.
 
 ## 🕵️ Data Collection Process
 
