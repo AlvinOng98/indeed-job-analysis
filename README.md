@@ -26,7 +26,7 @@ A data analysis project that explores job postings, salaries, and hiring trends 
   - Data was processed in Excel before EDA.
  
 ## ⚙️ Tech Stack
-- **Data Cleaning**: 📝 Excel - View [CSV]()
-- **Data Analysis**: 🐍 Python on Jupyter notebook (Pandas, Seaborn, Matplotlib) - View [Notebook]()
-- **Web Scraping**: 🌐 Selenium - View [scripts]()
+- **Data Cleaning**: 📝 Excel - View [CSV Files](https://github.com/AlvinOng98/indeed-job-analysis/tree/main/data)
+- **Data Analysis**: 🐍 Python on Jupyter notebook (Pandas, Seaborn, Matplotlib) - View [Notebook](https://github.com/AlvinOng98/indeed-job-analysis/tree/main/notebooks)
+- **Web Scraping**: 🌐 Selenium - View [scripts](https://github.com/AlvinOng98/indeed-job-analysis/tree/main/python%20scripts)
 
