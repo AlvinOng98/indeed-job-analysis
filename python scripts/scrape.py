@@ -2,7 +2,7 @@ from selenium.webdriver import Remote, ChromeOptions
 from selenium.webdriver.chromium.remote_connection import ChromiumRemoteConnection
 from bs4 import BeautifulSoup
 
-SBR_WEBDRIVER = f'https://brd-customer-hl_9e0997f4-zone-ai_web_scraper:8wtj3drxa0hh@brd.superproxy.io:9515'
+// SBR_WEBDRIVER = ''
 
 
 def scrape_website(website):
